@@ -6,7 +6,6 @@ namespace arvSak
 {
     class CD : Sak
     {
-
         public CD(String name, String artist)
         {
             title = name;

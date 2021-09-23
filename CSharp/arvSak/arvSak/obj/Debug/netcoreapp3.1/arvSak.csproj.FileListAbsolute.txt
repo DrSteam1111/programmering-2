@@ -1,0 +1,14 @@
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvSak\arvSak\bin\Debug\netcoreapp3.1\arvSak.exe
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvSak\arvSak\bin\Debug\netcoreapp3.1\arvSak.deps.json
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvSak\arvSak\bin\Debug\netcoreapp3.1\arvSak.runtimeconfig.json
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvSak\arvSak\bin\Debug\netcoreapp3.1\arvSak.runtimeconfig.dev.json
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvSak\arvSak\bin\Debug\netcoreapp3.1\arvSak.dll
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvSak\arvSak\bin\Debug\netcoreapp3.1\arvSak.pdb
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvSak\arvSak\obj\Debug\netcoreapp3.1\arvSak.csproj.AssemblyReference.cache
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvSak\arvSak\obj\Debug\netcoreapp3.1\arvSak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvSak\arvSak\obj\Debug\netcoreapp3.1\arvSak.AssemblyInfoInputs.cache
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvSak\arvSak\obj\Debug\netcoreapp3.1\arvSak.AssemblyInfo.cs
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvSak\arvSak\obj\Debug\netcoreapp3.1\arvSak.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvSak\arvSak\obj\Debug\netcoreapp3.1\arvSak.dll
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvSak\arvSak\obj\Debug\netcoreapp3.1\arvSak.pdb
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvSak\arvSak\obj\Debug\netcoreapp3.1\arvSak.genruntimeconfig.cache

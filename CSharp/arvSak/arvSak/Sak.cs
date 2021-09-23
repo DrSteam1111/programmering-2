@@ -6,13 +6,15 @@ namespace arvSak
 {
     class Sak
     {
-        protected String title;
-        protected String creator;
+        public String title;
+        public String creator;
+        public DiskType type;
 
         public Sak()
         {
             title = "Unknown";
             creator = "Unknown";
+            type = DiskType.NONE;
         }
     }
 }
