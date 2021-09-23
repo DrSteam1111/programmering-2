@@ -1,0 +1,14 @@
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvAnimal\arvAnimal\bin\Debug\netcoreapp3.1\arvAnimal.exe
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvAnimal\arvAnimal\bin\Debug\netcoreapp3.1\arvAnimal.deps.json
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvAnimal\arvAnimal\bin\Debug\netcoreapp3.1\arvAnimal.runtimeconfig.json
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvAnimal\arvAnimal\bin\Debug\netcoreapp3.1\arvAnimal.runtimeconfig.dev.json
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvAnimal\arvAnimal\bin\Debug\netcoreapp3.1\arvAnimal.dll
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvAnimal\arvAnimal\bin\Debug\netcoreapp3.1\arvAnimal.pdb
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvAnimal\arvAnimal\obj\Debug\netcoreapp3.1\arvAnimal.csproj.AssemblyReference.cache
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvAnimal\arvAnimal\obj\Debug\netcoreapp3.1\arvAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvAnimal\arvAnimal\obj\Debug\netcoreapp3.1\arvAnimal.AssemblyInfoInputs.cache
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvAnimal\arvAnimal\obj\Debug\netcoreapp3.1\arvAnimal.AssemblyInfo.cs
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvAnimal\arvAnimal\obj\Debug\netcoreapp3.1\arvAnimal.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvAnimal\arvAnimal\obj\Debug\netcoreapp3.1\arvAnimal.dll
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvAnimal\arvAnimal\obj\Debug\netcoreapp3.1\arvAnimal.pdb
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\arvAnimal\arvAnimal\obj\Debug\netcoreapp3.1\arvAnimal.genruntimeconfig.cache
