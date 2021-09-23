@@ -1,0 +1,14 @@
+C:\Users\Elev\Documents\Programering\CSharp\Testu\Testu\obj\Debug\netcoreapp3.1\Testu.csproj.AssemblyReference.cache
+C:\Users\Elev\Documents\Programering\CSharp\Testu\Testu\obj\Debug\netcoreapp3.1\Testu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\Documents\Programering\CSharp\Testu\Testu\obj\Debug\netcoreapp3.1\Testu.AssemblyInfoInputs.cache
+C:\Users\Elev\Documents\Programering\CSharp\Testu\Testu\obj\Debug\netcoreapp3.1\Testu.AssemblyInfo.cs
+C:\Users\Elev\Documents\Programering\CSharp\Testu\Testu\obj\Debug\netcoreapp3.1\Testu.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Documents\Programering\CSharp\Testu\Testu\bin\Debug\netcoreapp3.1\Testu.exe
+C:\Users\Elev\Documents\Programering\CSharp\Testu\Testu\bin\Debug\netcoreapp3.1\Testu.deps.json
+C:\Users\Elev\Documents\Programering\CSharp\Testu\Testu\bin\Debug\netcoreapp3.1\Testu.runtimeconfig.json
+C:\Users\Elev\Documents\Programering\CSharp\Testu\Testu\bin\Debug\netcoreapp3.1\Testu.runtimeconfig.dev.json
+C:\Users\Elev\Documents\Programering\CSharp\Testu\Testu\bin\Debug\netcoreapp3.1\Testu.dll
+C:\Users\Elev\Documents\Programering\CSharp\Testu\Testu\bin\Debug\netcoreapp3.1\Testu.pdb
+C:\Users\Elev\Documents\Programering\CSharp\Testu\Testu\obj\Debug\netcoreapp3.1\Testu.dll
+C:\Users\Elev\Documents\Programering\CSharp\Testu\Testu\obj\Debug\netcoreapp3.1\Testu.pdb
+C:\Users\Elev\Documents\Programering\CSharp\Testu\Testu\obj\Debug\netcoreapp3.1\Testu.genruntimeconfig.cache
