@@ -12,5 +12,10 @@ namespace arvSak
             creator = artist;
             type = DiskType.CD;
         }
+
+        public override String ToString()
+        {
+            return type.ToString() + ", Name: " + title + "\n" + "Artist: " + creator + "\n\n";
+        }
     }
 }

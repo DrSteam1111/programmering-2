@@ -4,11 +4,11 @@ using System.Text;
 
 namespace arvSak
 {
-    class Sak
+    abstract class Sak
     {
-        public String title;
-        public String creator;
-        public DiskType type;
+        protected String title;
+        protected String creator;
+        protected DiskType type;
 
         public Sak()
         {

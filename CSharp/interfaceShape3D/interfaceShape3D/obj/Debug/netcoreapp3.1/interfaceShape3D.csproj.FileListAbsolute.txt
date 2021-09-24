@@ -1,0 +1,14 @@
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\interfaceShape3D\interfaceShape3D\bin\Debug\netcoreapp3.1\interfaceShape3D.exe
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\interfaceShape3D\interfaceShape3D\bin\Debug\netcoreapp3.1\interfaceShape3D.deps.json
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\interfaceShape3D\interfaceShape3D\bin\Debug\netcoreapp3.1\interfaceShape3D.runtimeconfig.json
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\interfaceShape3D\interfaceShape3D\bin\Debug\netcoreapp3.1\interfaceShape3D.runtimeconfig.dev.json
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\interfaceShape3D\interfaceShape3D\bin\Debug\netcoreapp3.1\interfaceShape3D.dll
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\interfaceShape3D\interfaceShape3D\bin\Debug\netcoreapp3.1\interfaceShape3D.pdb
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\interfaceShape3D\interfaceShape3D\obj\Debug\netcoreapp3.1\interfaceShape3D.csproj.AssemblyReference.cache
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\interfaceShape3D\interfaceShape3D\obj\Debug\netcoreapp3.1\interfaceShape3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\interfaceShape3D\interfaceShape3D\obj\Debug\netcoreapp3.1\interfaceShape3D.AssemblyInfoInputs.cache
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\interfaceShape3D\interfaceShape3D\obj\Debug\netcoreapp3.1\interfaceShape3D.AssemblyInfo.cs
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\interfaceShape3D\interfaceShape3D\obj\Debug\netcoreapp3.1\interfaceShape3D.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\interfaceShape3D\interfaceShape3D\obj\Debug\netcoreapp3.1\interfaceShape3D.dll
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\interfaceShape3D\interfaceShape3D\obj\Debug\netcoreapp3.1\interfaceShape3D.pdb
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\interfaceShape3D\interfaceShape3D\obj\Debug\netcoreapp3.1\interfaceShape3D.genruntimeconfig.cache
