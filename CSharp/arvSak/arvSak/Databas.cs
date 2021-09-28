@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace arvSak
 {
@@ -20,7 +19,7 @@ namespace arvSak
             }
         }
 
-        public void SkrivUt()
+        public void Print()
         {
             for (int i = 0; i < saks.Count; i++)
             {

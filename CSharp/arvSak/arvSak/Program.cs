@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace arvSak
+﻿namespace arvSak
 {
     class Program
     {
@@ -13,7 +11,7 @@ namespace arvSak
             databas.Add("Peter Jackson", "Lord of the Rings: The Two Towers", DiskType.DVD);
             databas.Add("Peter Jackson", "Lord of the Rings: The Return of the King", DiskType.DVD);
 
-            databas.SkrivUt();
+            databas.Print();
         }
     }
 }
