@@ -25,6 +25,15 @@ namespace arvSak
             {
                 Console.Write(saks[i].ToString());
             }
+            /*
+                    can also use a foreach
+             
+             foreach(Sak saak in saks)
+             {
+                Console.Write(saks[i].ToString());
+             }
+
+             */
         }
     }
 }
