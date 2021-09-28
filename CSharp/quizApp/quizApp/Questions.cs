@@ -1,46 +1,41 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace QuizLibrary
+namespace quizApp
 {
-    
     public class Questions
     {
-        private static int index = 0;
-        private static bool check = false;
+        private int index = 0;
+        private string curQuestion;
+        private string curAnswer;
+        private List<string> curPosAnswers;
+        private bool check = false;
 
-        public void QuestionOne()
+        public bool ReadQuestions(string quest, string answer, List<string> posAnswers)
         {
-            string question = " 1. When was C# invented?\n";
+            curQuestion = quest;
+            curAnswer = answer;
+            curPosAnswers = posAnswers;
+
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine(question);
+            Console.WriteLine(curQuestion);
             Console.ForegroundColor = ConsoleColor.White;
-
-            List<string> possibleAnswers = new List<string>()
-            {
-                " 1983",
-                " 2002",
-                " 2000",
-                " 1995",
-                " 2012"
-
-            };
 
             Console.CursorVisible = false;
             while (true)
             {
-                string questionAnswerItems = QuestionScrollFunctionality(possibleAnswers);
-                if (questionAnswerItems == " 2000" && check)
+                string questionAnswerItems = QuestionScrollFunctionality(curPosAnswers);
+                if (questionAnswerItems == " " + curAnswer && check)
                 {
                     Console.Clear();
 
                     Console.ForegroundColor = ConsoleColor.Yellow;
                     Console.WriteLine(" \n Correct!\n");
                     Console.ResetColor();
-                    QuestionTwo();
-
+                    // returns false to exit while loop
+                    return false;
                 }
-                else if (questionAnswerItems != " 2000")
+                else if (questionAnswerItems != " " + curAnswer)
                 {
                     Console.Clear();
 
@@ -51,116 +46,10 @@ namespace QuizLibrary
                         Console.Write(" \n Select another choice, then press enter\n\n");
                     }
                     Console.ForegroundColor = ConsoleColor.Yellow;
-                    Console.WriteLine(question);
+                    Console.WriteLine(curQuestion);
                     Console.ResetColor();
-
-
                 }
-
             }
-
-        }
-
-        public void QuestionTwo()
-        {
-            string question = " 2. Who invented C#?\n";
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine(question);
-            Console.ForegroundColor = ConsoleColor.White;
-
-
-
-            List<string> possibleAnswers = new List<string>()
-            {
-                " Anders Hejlsberg",
-                " D. Luffy",
-                " Linus Torvalds",
-                " The Rock",
-                " Bjarne Stroustrup"
-
-            };
-
-            Console.CursorVisible = false;
-            while (true)
-            {
-                string questionAnswerItems = QuestionScrollFunctionality(possibleAnswers);
-                if (questionAnswerItems == " Anders Hejlsberg" && check)
-                {
-                    Console.Clear();
-
-                    Console.ForegroundColor = ConsoleColor.Yellow;
-                    Console.WriteLine(" \n Correct!\n");
-                    Console.ResetColor();
-                    QuestionThree();
-                }
-                else if (questionAnswerItems != " Anders Hejlsberg")
-                {
-                    Console.Clear();
-
-                    if (check)
-                    {
-                        Console.ForegroundColor = ConsoleColor.Red;
-                        Console.Write(" \n Wrong answer");
-                        Console.Write(" \n Select another choice, then press enter\n\n");
-                    }
-                    Console.ForegroundColor = ConsoleColor.Yellow;
-                    Console.WriteLine(question);
-                    Console.ResetColor();
-
-
-                }
-
-            }
-
-        }
-
-        public void QuestionThree()
-        {
-            string question = " 3. The dog doing?\n";
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine(question);
-            Console.ForegroundColor = ConsoleColor.White;
-
-            List<string> possibleAnswers = new List<string>()
-            {
-                " What the dog doin?",
-                " Walking",
-                " Eating",
-                " Sleeping",
-                " Nothing"
-
-            };
-
-            Console.CursorVisible = false;
-            while (true)
-            {
-                string questionAnswerItems = QuestionScrollFunctionality(possibleAnswers);
-                if (questionAnswerItems == " What the dog doin?" && check)
-                {
-                    Console.Clear();
-
-                    Console.ForegroundColor = ConsoleColor.Yellow;
-                    Console.WriteLine(" \n Correct!\n");
-                    Console.ResetColor();
-                    YouWon();
-                }
-                else if (questionAnswerItems != " What the dog doin?")
-                {
-                    Console.Clear();
-
-                    if (check)
-                    {
-                        Console.ForegroundColor = ConsoleColor.Red;
-                        Console.Write(" \n Wrong answer");
-                        Console.Write(" \n Select another choice, then press enter\n\n");
-                    }
-                    Console.ForegroundColor = ConsoleColor.Yellow;
-                    Console.WriteLine(question);
-                    Console.ResetColor();
-                }
-
-            }
-
         }
 
         public void YouWon()

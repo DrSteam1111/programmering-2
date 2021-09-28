@@ -11,3 +11,4 @@ C:\Users\Elev\Documents\Programering\programmering-2\CSharp\quizApp\quizApp\obj\
 C:\Users\Elev\Documents\Programering\programmering-2\CSharp\quizApp\quizApp\obj\Debug\netcoreapp3.1\quizApp.dll
 C:\Users\Elev\Documents\Programering\programmering-2\CSharp\quizApp\quizApp\obj\Debug\netcoreapp3.1\quizApp.pdb
 C:\Users\Elev\Documents\Programering\programmering-2\CSharp\quizApp\quizApp\obj\Debug\netcoreapp3.1\quizApp.genruntimeconfig.cache
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\quizApp\quizApp\obj\Debug\netcoreapp3.1\quizApp.csproj.AssemblyReference.cache
