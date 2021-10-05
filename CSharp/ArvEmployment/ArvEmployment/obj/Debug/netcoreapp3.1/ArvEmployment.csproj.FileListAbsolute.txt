@@ -1,0 +1,14 @@
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\ArvEmployment\ArvEmployment\bin\Debug\netcoreapp3.1\ArvEmployment.exe
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\ArvEmployment\ArvEmployment\bin\Debug\netcoreapp3.1\ArvEmployment.deps.json
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\ArvEmployment\ArvEmployment\bin\Debug\netcoreapp3.1\ArvEmployment.runtimeconfig.json
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\ArvEmployment\ArvEmployment\bin\Debug\netcoreapp3.1\ArvEmployment.runtimeconfig.dev.json
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\ArvEmployment\ArvEmployment\bin\Debug\netcoreapp3.1\ArvEmployment.dll
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\ArvEmployment\ArvEmployment\bin\Debug\netcoreapp3.1\ArvEmployment.pdb
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\ArvEmployment\ArvEmployment\obj\Debug\netcoreapp3.1\ArvEmployment.csproj.AssemblyReference.cache
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\ArvEmployment\ArvEmployment\obj\Debug\netcoreapp3.1\ArvEmployment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\ArvEmployment\ArvEmployment\obj\Debug\netcoreapp3.1\ArvEmployment.AssemblyInfoInputs.cache
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\ArvEmployment\ArvEmployment\obj\Debug\netcoreapp3.1\ArvEmployment.AssemblyInfo.cs
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\ArvEmployment\ArvEmployment\obj\Debug\netcoreapp3.1\ArvEmployment.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\ArvEmployment\ArvEmployment\obj\Debug\netcoreapp3.1\ArvEmployment.dll
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\ArvEmployment\ArvEmployment\obj\Debug\netcoreapp3.1\ArvEmployment.pdb
+C:\Users\Elev\Documents\Programering\programmering-2\CSharp\ArvEmployment\ArvEmployment\obj\Debug\netcoreapp3.1\ArvEmployment.genruntimeconfig.cache
