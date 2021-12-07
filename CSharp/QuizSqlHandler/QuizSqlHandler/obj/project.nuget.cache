@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "plR2GtTrNLdBXfO/X5mf3fItKiahKSfYxCn49834mVDlG7ona+qr/edIc9wa/qRlpa2qoeWb5StevrczWILk6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elev\\Documents\\Programering\\programmering-2\\CSharp\\QuizSqlHandler\\QuizSqlHandler\\QuizSqlHandler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elev\\.nuget\\packages\\microsoft.data.sqlite\\5.0.11\\microsoft.data.sqlite.5.0.11.nupkg.sha512",
+    "C:\\Users\\Elev\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.11\\microsoft.data.sqlite.core.5.0.11.nupkg.sha512",
+    "C:\\Users\\Elev\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Elev\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\Elev\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Elev\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\Elev\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Elev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

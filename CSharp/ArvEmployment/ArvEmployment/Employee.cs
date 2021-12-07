@@ -14,7 +14,6 @@ namespace ArvEmployment
         }
 
         protected abstract double CalculateSalary();
-
         public override abstract string ToString();
     }
 }

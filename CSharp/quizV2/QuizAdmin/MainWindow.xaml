@@ -1,0 +1,15 @@
+﻿<Window x:Class="QuizAdmin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuizAdmin"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FF3B3434">
+        <TextBlock TextAlignment="Center" FontSize="50" FontWeight="Bold">Question Admin</TextBlock>
+        <DataGrid Margin="10,80,10,50" Name="dgQuestions" SelectionChanged="dgQuestions_SelectionChanged"></DataGrid>
+        
+        <Button Margin="20,390,20,10" FontWeight="Bold" FontSize="20" Click="Button_ClickSave">Save</Button>
+    </Grid>
+</Window>

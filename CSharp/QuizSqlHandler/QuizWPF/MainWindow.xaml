@@ -1,0 +1,23 @@
+﻿<Window x:Class="QuizWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuizWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="mainGrid" Background="Crimson">
+        <StackPanel VerticalAlignment="Center">
+            <Border BorderBrush="Black" BorderThickness="5" Margin="30 30 30 10">
+                <TextBlock x:Name="question" FontSize="20" HorizontalAlignment="Center" Margin="20">question</TextBlock>
+            </Border>
+            <Border x:Name="answerBorder" BorderBrush="Black" BorderThickness="5" Margin="30 10 30 30">
+                <TextBox x:Name="answer" FontSize="20" HorizontalAlignment="Center" Margin="20" Background="Crimson" BorderBrush="Crimson">Answer</TextBox>
+            </Border>
+            <Border x:Name="rightAnsweredBorder" BorderBrush="Black" BorderThickness="5" Margin="30 10 30 30" Visibility="Collapsed">
+                <TextBlock x:Name="rightAnswered" FontSize="20" HorizontalAlignment="Center" Margin="20">question</TextBlock>
+            </Border>
+            <Button x:Name="answerBtn" Click="answerBtn_Click" FontSize="20" HorizontalAlignment="Center" Background="Crimson" BorderBrush="Black">Submit</Button>
+        </StackPanel>
+    </Grid>
+</Window>

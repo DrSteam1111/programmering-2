@@ -17,6 +17,10 @@ namespace quizV2
         {
             database.Add(new MultipleChoiceQuestion(question, answer, mulChoices));
         }
+        public void Add(Question question)
+        {
+            database.Add(question);
+        }
 
         public List<Question> GetDatabase()
         {
