@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a9fdde8-44a3-4e33-ad1c-aabf814fc0a3": {
+      "ProjectGuid": "0a9fdde8-44a3-4e33-ad1c-aabf814fc0a3",
+      "DisplayName": "WPFPaint",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
